@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">KerteszetiTermekekWebshopja</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Lakcím</string>
+    <string name="boy">Férfi</string>
+    <string name="girl">Nő</string>
+    <string name="product_description">Termék leírás.</string>
+    <string name="guest_login">Bejelentkezés vendégként</string>
+    <string name="google_login">Bejelentkezés google fiókkal</string>
+    <string name="information">Információ</string>
+    <string name="description">Leírás</string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="delete">Nem érdekel</string>
+
+    <string-array name="shoping_item_name">
+        <item>Locsoló</item>
+        <item>Ásó</item>
+        <item>Fűmag</item>
+        <item>Palanta</item>
+        <item>Slag</item>
+        <item>Talicska</item>
+        <item>Műtrágya</item>
+        <item>Olló</item>
+        <item>Gereblye</item>
+        <item>Fűrész</item>
+        <item>Cserép</item>
+        <item>Alátét</item>
+        <item>Borsó</item>
+        <item>Trágya</item>
+
+    </string-array>
+
+    <string-array name="shoping_item_description">
+        <item>Ez egy locsoló</item>
+        <item>Ez egy ásó</item>
+        <item>Ez egy fűmag</item>
+        <item>Ez egy palanta</item>
+        <item>Ez egy slag</item>
+        <item>Ez egy talicska</item>
+        <item>Ez egy műtrágya</item>
+        <item>Ez egy olló</item>
+        <item>Ez egy gereblye</item>
+        <item>Ez egy fűrész</item>
+        <item>Ez egy cserép</item>
+        <item>Ez egy alátét</item>
+        <item>Ez egy borsó</item>
+        <item>Ez egy trágya</item>
+    </string-array>
+
+    <string-array name="shoping_item_price">
+        <item>100 Sx</item>
+        <item>300 Sx</item>
+        <item>150 Sx</item>
+        <item>50 Sx</item>
+        <item>200 Sx</item>
+        <item>550 Sx</item>
+        <item>100 Sx</item>
+        <item>100 Sx</item>
+        <item>100 Sx</item>
+        <item>300 Sx</item>
+        <item>150 Sx</item>
+        <item>50 Sx</item>
+        <item>200 Sx</item>
+        <item>550 Sx</item>
+    </string-array>
+
+    <array name="shoping_item_source">
+        <item>@drawable/locsolo3</item>
+        <item>@drawable/aso3</item>
+        <item>@drawable/fumag3</item>
+        <item>@drawable/palanta3</item>
+        <item>@drawable/slag3</item>
+        <item>@drawable/talicska3</item>
+        <item>@drawable/mutragya3</item>
+        <item>@drawable/ollo3</item>
+        <item>@drawable/gereblye3</item>
+        <item>@drawable/furesz3</item>
+        <item>@drawable/cserep3</item>
+        <item>@drawable/alatet3</item>
+        <item>@drawable/borso3</item>
+        <item>@drawable/tragya3</item>
+    </array>
+
+</resources>
