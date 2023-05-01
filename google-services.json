@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97080965056",
+    "project_id": "androidkerteszetiwebshop",
+    "storage_bucket": "androidkerteszetiwebshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97080965056:android:3651ff4268486e891eba25",
+        "android_client_info": {
+          "package_name": "com.example.kerteszetitermekekwebshopja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97080965056-kom7a98di3oichmg4uushqlt04hsacog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerteszetitermekekwebshopja",
+            "certificate_hash": "2a813fa3fecb0a25e2ecb0e09bd25c1175a7a841"
+          }
+        },
+        {
+          "client_id": "97080965056-59sgehdv8jgd5vk39c3kodvoe081ijso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaotSn7oZ8tlSoOid4YEbjt14p9x3chpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97080965056-59sgehdv8jgd5vk39c3kodvoe081ijso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
